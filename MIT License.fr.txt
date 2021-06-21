@@ -2,7 +2,7 @@ Droit d'Auteur (c) <année> <les titulaires des droits d'auteurs>
 
 La permission a accordé par le document prèsent, avec aucun prix, à tous ceux qui obtenir une copie
 de ce logiciel et des fichiers du documentation associés (le "Logiciel"), d'intéresser
-avec le Logiciel sans réstriction, inclut sans limitation les droit
+avec le Logiciel sans réstriction, y compris mais sans limitation les droit
 d'utiliser, copier, modifier, publier, distribuer, sous-licenser, et/ou vendre
 des copies du Logiciel, et d'authoriser à des gens à qui le Logiciel est
 meublé à ça faire, soumis à les conditions suivant:
