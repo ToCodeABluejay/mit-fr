@@ -5,7 +5,7 @@ de ce logiciel et des fichiers du documentation associés (le "Logiciel"), d'int
 avec le Logiciel sans réstriction, y compris mais sans limitation les droit
 d'utiliser, copier, modifier, publier, distribuer, sous-licenser, et/ou vendre
 des copies du Logiciel, et d'authoriser à des gens à qui le Logiciel est
-meublé à ça faire, soumis à les conditions suivant:
+meublé à ça faire, soumis aux conditions suivant:
 
 L'annonce du droit d'auteur au-dessus et cette annonce de la permission doit être inclus dans tous
 les copies ou les portions substantiales du Logiciel.
