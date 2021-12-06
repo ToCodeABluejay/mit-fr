@@ -1,6 +1,6 @@
 Droit d'Auteur (c) <année> <les titulaires des droits d'auteurs>
 
-La permission a accordé par le document prèsent, avec aucun prix, à tous ceux qui obtenir une copie
+La permission a accordé par le document prèsent, avec aucun prix, à tous ceux qui obtiennent une copie
 de ce logiciel et des fichiers du documentation associés (le "Logiciel"), d'intéresser
 avec le Logiciel sans réstriction, y compris mais sans limitation les droit
 d'utiliser, copier, modifier, publier, distribuer, sous-licenser, et/ou vendre
@@ -10,7 +10,7 @@ meublé à ça faire, soumis aux conditions suivant:
 L'annonce du droit d'auteur au-dessus et cette annonce de la permission doit être inclus dans tous
 les copies ou les portions substantiales du Logiciel.
 
-LE LOGICIEL EST FOURNI "TEL QUEL", SANS LA GARANTIE N'IMPORTE QUEL, FORMEL OU
+LE LOGICIEL EST FOURNI "TEL QUEL", SANS UNE GARANTIE DE N'IMPORTE QUELLE SORTE, FORMEL OU
 SOUS-ENTENDU, Y COMPRIS MAIS PAS LIMITÉ À LES GARANTIES DE MARCHANDE,
 CONVENIR À UN OBJECTIF PARTICULIER ET LA VIOLATION DE BREVET. EN AUCUN CAS, DOIVENT LES
 AUTEURS OU LES TITULAIRES DES DROITS D'AUTEURS ÊTRE RESPONSABLE DE N'IMPORTE QUELLE DÉCLERATION, DES DOMMAGES OU
